@@ -1,6 +1,10 @@
 Hello World!
 Deneme 2
 Deneme 2
+<<<<<<< HEAD
+deneme Tugba
+=======
 
 
 deneme 3 selcuk
+>>>>>>> afedb56a7b6acf8a209c43310170bb5e086673c1
