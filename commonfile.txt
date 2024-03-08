@@ -14,4 +14,16 @@ Deneme Esra
 
 fy test
 fy test 2
->>>>>>> ff93e91ed507e6f9788cd87e0a7f9bd4d6ebea9d
+
+
+
+
+
+
+
+
+
+
+
+
+faruk deneme 1
